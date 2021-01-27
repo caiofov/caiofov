@@ -1,10 +1,10 @@
-# Hello!
+# <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" height="50px" width="50px"> Hello! I'm Caio 
 
+<p>
 📚 💻 Computer Science Student (<a href= https://cc.ufc.br/>UFC</a>) 
+</p>
 
-<br>
-
-#### How to reach me: 
+#### How to reach me:     <img src="https://media.giphy.com/media/WpCaUSZg9e45tAIacr/giphy.gif" width="50px" height="50px">
 
 <p>
   <ul>
