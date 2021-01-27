@@ -2,7 +2,7 @@
 
 📚 💻 Computer Science Student (<a href= https://cc.ufc.br/>UFC</a>) 
 
-<br><br>
+<br>
 
 #### How to reach me: 
 
