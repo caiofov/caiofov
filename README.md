@@ -7,7 +7,7 @@
   Developer at <a href="http://www.codijr.ufc.br/">Container Digital Jr.</a>
 </p>
 
-<img src="https://media.giphy.com/media/6T0QOe06Bbsb65LJyL/giphy.gif" width="50px" height="50px" align="center"> <b>How to reach me:</b>
+<b>How to reach me:</b> <img src="https://media.giphy.com/media/jnE30eFmv6DvXUHUOs/giphy.gif" width="auto" height="25px" align="center"> 
 
 <ul type="square">
   
