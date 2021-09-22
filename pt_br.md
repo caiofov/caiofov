@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" height="50px" width="50px" align="center"> Oi! Sou o Caio
 
-<a href="README.md"><img src="https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg" height="15px" width="20px"></a>
+<a href="README.md"><img src="https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg" height="15px" width="20px"></a> · 
 <a href="fr_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" height="15px"></a>
 
 <p>
@@ -38,3 +38,7 @@
   </li>
 
 </ul>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&langs_count=8&hide_border=true&custom_title=Linguagens mais utilizadas" />
+</a>
