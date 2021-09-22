@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" height="50px" width="50px" align="center"> Hello! I'm Caio
 
-<a href="pt_br.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="15px"></a>
-<a href="fr_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" height="15px"></a>
+<a href="pt_br.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="15px" align="center"></a> ·
+<a href="fr_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" height="15px" align="center"></a>
 
 <p>
   <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="40px" height="40px" align="center"> Computer Science Student at <a href= https://cc.ufc.br/>UFC</a>
@@ -38,4 +38,11 @@
   </li>
 
 </ul>
+
+<br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&langs_count=8&hide_border=true" />
+</a>
+
+
 
