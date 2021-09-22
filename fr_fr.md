@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="40px" height="40px" align="center"> Étudiant en Informatique chez <a href= https://cc.ufc.br/>UFC</a>
   </br>
   <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="45px" border-radius="8px" height="45px" align="center">
-  Developeur chez <a href="http://www.codijr.ufc.br/">Container Digital Jr.</a>
+  Développeur chez <a href="http://www.codijr.ufc.br/">Container Digital Jr.</a>
 </p>
 
 <b>Comment me joindre:</b> <img src="https://media.giphy.com/media/jnE30eFmv6DvXUHUOs/giphy.gif" width="auto" height="25px" align="center"> 
