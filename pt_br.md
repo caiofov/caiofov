@@ -1,4 +1,7 @@
-# <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" height="50px" width="50px" align="center"> Oi! Sou o Caio 
+# <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" height="50px" width="50px" align="center"> Oi! Sou o Caio
+
+<a href="README.md"><img src="https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg" height="15px" width="20px"></a>
+<a href="fr_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" height="15px"></a>
 
 <p>
   <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="40px" height="40px" align="center"> Estudante de Ciência da Computação na <a href= https://cc.ufc.br/>UFC</a>
