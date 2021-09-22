@@ -40,9 +40,7 @@
 </ul>
 
 <br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&langs_count=8&hide_border=true" />
-</a>
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&langs_count=8&hide_border=true" />
+<img margin-left=100px align="center" src="https://github-profile-trophy.vercel.app/?username=caiofov&theme=nord&column=7&margin-w=15&no-frame=true&no-bg=true"/>
 
