@@ -8,6 +8,9 @@
   </br>
   <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="45px" border-radius="8px" height="45px" align="center">
   Développeur chez <a href="http://www.codijr.ufc.br/">Container Digital Jr.</a>
+  </br>
+  <img src="https://media.giphy.com/media/3og0IEIcBeypT4DbyM/giphy.gif" width="30px" height="30px" align="center">
+  Professeur de programmation chez <a href="https://progkids.com/en">ProgKids</a>
 </p>
 
 <b>Comment me joindre:</b> <img src="https://media.giphy.com/media/jnE30eFmv6DvXUHUOs/giphy.gif" width="auto" height="25px" align="center"> 
@@ -40,6 +43,6 @@
 </ul>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&langs_count=8&hide_border=true&locale=fr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&hide=makefile&langs_count=10&hide_border=true&locale=fr" />
 </a>
 
