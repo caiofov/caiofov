@@ -8,6 +8,9 @@
   </br>
   <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="45px" border-radius="8px" height="45px" align="center">
   Developer at <a href="http://www.codijr.ufc.br/">Container Digital Jr.</a>
+  </br>
+  <img src="https://media.giphy.com/media/3og0IEIcBeypT4DbyM/giphy.gif" width="30px" height="30px" align="center">
+  Programming teacher at <a href="https://progkids.com/en">ProgKids</a>
 </p>
 
 <b>How to reach me:</b> <img src="https://media.giphy.com/media/jnE30eFmv6DvXUHUOs/giphy.gif" width="auto" height="25px" align="center"> 
