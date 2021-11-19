@@ -17,9 +17,12 @@
   <img src="https://media.giphy.com/media/3og0IEIcBeypT4DbyM/giphy.gif" width="30px" height="30px" align="center">
   Programming teacher at <a href="https://progkids.com/en">ProgKids</a>
 </p>
+</br>
+
+
 
 <!--How to reach me -->
-<b>How to reach me:</b> <img src="https://media.giphy.com/media/jnE30eFmv6DvXUHUOs/giphy.gif" width="auto" height="25px" align="center"> 
+<b>How to reach me:</b>   <img src="https://media.giphy.com/media/jnE30eFmv6DvXUHUOs/giphy.gif" width="auto" height="25px" align="center"/>  
 
 <ul type="square">
   
@@ -52,17 +55,24 @@
 
 </ul>
 
-<br>
+</br>
 
 <!-- gagdets -->
+
+<!--Streak-->
 <div align="center">
+<img height="120%" valign="middle" src="http://github-readme-streak-stats.herokuapp.com?user=caiofov&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=7b9fb8&background=2E3440&sideLabels=BFC2C8&currStreakNum=B6BCC7&currStreakLabel=BFC2C8&ring=738EAB&stroke=DD272700&sideNums=738EAB" />
+</div>
+
+</br>
+
+<div align="center">
+  
   <!--Most used languages -->
-  <img height="180px" valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&langs_count=10&hide_border=true&hide=makefile" />
+  <img height="220px" valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&langs_count=10&hide_border=true&hide=makefile" />
   
   <!--Trophies -->
-  <img height="180px" valign="middle" src="https://github-profile-trophy.vercel.app/?username=caiofov&theme=nord&column=3&no-frame=true&no-bg=true&rank=SECRET,SSS,SS S,AAA,AA,A,B"/>
+  <img height="220px" valign="middle" src="https://github-profile-trophy.vercel.app/?username=caiofov&theme=nord&column=3&no-frame=true&no-bg=true&rank=SECRET,SSS,SS S,AAA,AA,A,B"/>
   
-  <!--Streak-->
-  <img width= "40%" valign="middle" src="http://github-readme-streak-stats.herokuapp.com?user=caiofov&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=7b9fb8&background=2E3440&sideLabels=BFC2C8&currStreakNum=B6BCC7&currStreakLabel=BFC2C8&ring=738EAB&stroke=DD272700&sideNums=738EAB" />
 </div>
 
