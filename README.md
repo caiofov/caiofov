@@ -59,11 +59,6 @@
 
 <!-- gagdets -->
 
-<!--Streak-->
-<div align="center">
-<img height="120%" valign="middle" src="http://github-readme-streak-stats.herokuapp.com?user=caiofov&theme=blueberry_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=7b9fb8&background=2E3440&sideLabels=BFC2C8&currStreakNum=B6BCC7&currStreakLabel=BFC2C8&ring=738EAB&stroke=DD272700&sideNums=738EAB" />
-</div>
-
 </br>
 
 <div align="center">
