@@ -42,6 +42,16 @@
 
 </ul>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&langs_count=10&hide_border=true&hide=makefile&custom_title=Linguagens mais utilizadas" />
-</a>
+<!-- gagdets -->
+
+</br>
+
+<div align="center">
+  
+  <!--Most used languages -->
+  <img height="220px" valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&langs_count=10&hide_border=true&hide=makefile, html&custom_title=Linguagens mais utilizadas" />
+  
+  <!--Trophies -->
+  <img height="220px" valign="middle" src="https://github-profile-trophy.vercel.app/?username=caiofov&theme=nord&column=3&no-frame=true&no-bg=true&rank=SECRET,SSS,SS S,AAA,AA,A,B"/>
+  
+</div>
