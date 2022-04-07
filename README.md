@@ -1,8 +1,8 @@
 # <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" height="50px" width="50px" align="center"> Hello! I'm Caio
 
 <!-- translations -->
-<a href="pt_br.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" height="15px" align="center"></a> ·
-<a href="fr_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" height="15px" align="center"></a>
+<a href="pt_br.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" alt="Português" height="15px" align="center"></a> ·
+<a href="fr_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="Français" height="15px" align="center"></a>
 
 <!--About me -->
 <p>
