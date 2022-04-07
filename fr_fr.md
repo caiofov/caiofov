@@ -6,11 +6,12 @@
 <p>
   <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="40px" height="40px" align="center"> Étudiant en Informatique chez <a href= https://cc.ufc.br/>UFC</a>
   </br>
-  <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="45px" border-radius="8px" height="45px" align="center">
-  Développeur chez <a href="http://www.codijr.ufc.br/">Container Digital Jr.</a>
-  </br>
   <img src="https://media.giphy.com/media/3og0IEIcBeypT4DbyM/giphy.gif" width="30px" height="30px" align="center">
   Professeur de programmation chez <a href="https://progkids.com/en">ProgKids</a>
+  <br>
+  <!-- gamedev -->
+  <img src="https://media.giphy.com/media/ZIwKR3mLTwDAbNC6cR/giphy.gif" width="30px" height="30px" align="center">
+  Développeur de jeux vidéo débutant
 </p>
 
 <b>Comment me joindre:</b> <img src="https://media.giphy.com/media/jnE30eFmv6DvXUHUOs/giphy.gif" width="auto" height="25px" align="center"> 
@@ -49,7 +50,7 @@
 <div align="center">
   
   <!--Most used languages -->
-  <img height="220px" valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&langs_count=10&hide_border=true&hide=makefile, html&locale=fr" />
+  <img height="220px" valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&langs_count=10&hide_border=true&hide=makefile, html, css&locale=fr" />
   
   <!--Trophies -->
   <img height="220px" valign="middle" src="https://github-profile-trophy.vercel.app/?username=caiofov&theme=nord&column=3&no-frame=true&no-bg=true&rank=SECRET,SSS,SS S,AAA,AA,A,B"/>
