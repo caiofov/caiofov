@@ -9,13 +9,13 @@
   <!--ufc -->
   <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="40px" height="40px" align="center"> Computer Science Student at <a href= https://cc.ufc.br/>UFC</a>
   </br>
-  <!-- codijr -->
-  <img src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="45px" border-radius="8px" height="45px" align="center">
-  Developer at <a href="http://www.codijr.ufc.br/">Container Digital Jr.</a>
-  </br>
   <!-- progkids -->
   <img src="https://media.giphy.com/media/3og0IEIcBeypT4DbyM/giphy.gif" width="30px" height="30px" align="center">
   Programming teacher at <a href="https://progkids.com/en">ProgKids</a>
+  <br>
+  <!-- gamedev -->
+  <img src="https://media.giphy.com/media/ZIwKR3mLTwDAbNC6cR/giphy.gif" width="30px" height="30px" align="center">
+  Beginner game dev
 </p>
 </br>
 
