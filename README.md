@@ -56,6 +56,31 @@
 </ul>
 
 </br>
+<!-- repositories -->
+<h3> My repositories </h3>
+<!-- languages -->
+<b>Languages</b> <br>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=java&sort="><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=php&sort="><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=c&sort="><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=oz&sort="><img src="https://github.com/caiofov/caiofov/blob/master/imgs/oz.png?raw=true" height="30px" alt="Oz"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=haskell&sort="><img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=lua&sort="><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=prolog&sort="><img src="https://avatars.githubusercontent.com/u/6884283?s=200&v=4" height= "30px" alt="Prolog"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=gdscript&sort="><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="GDScript"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=html&sort="><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
+
+<!-- other repositories -->
+<b>More</b><br>
+<a href="https://github.com/caiofov?tab=repositories&q=wordpress&type=&language=&sort="><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="Wordpress"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=p5js&type=&language=&sort="><img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF" alt="P5.js"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=pygame&type=&language=&sort="><img src="https://github.com/caiofov/caiofov/blob/master/imgs/pygame.png?raw=true" height="35px" alt="Pygame"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=neat&type=&language=&sort="><img src="https://img.shields.io/badge/neat-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Neat"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=opencv&type=&language=&sort="><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+
 
 <!-- gagdets -->
 
