@@ -11,10 +11,10 @@
   </br>
   <!-- progkids -->
   <img src="https://media.giphy.com/media/3og0IEIcBeypT4DbyM/giphy.gif" width="30px" height="30px" align="center">
-  Programming teacher at <a href="https://progkids.com/en">ProgKids</a>
+     Programming teacher at <a href="https://progkids.com/en">ProgKids</a>
   <br>
   <!-- gamedev -->
-  <img src="https://media.giphy.com/media/KvI1A7ma7Pk48eZ5as/giphy.gif" height="30px" align="center">
+  <img src="https://media.giphy.com/media/KvI1A7ma7Pk48eZ5as/giphy.gif" height="30px" align="center"> 
   Beginner game dev
 </p>
 </br>
@@ -81,8 +81,8 @@
 <a href="https://github.com/caiofov?tab=repositories&q=pygame&type=&language=&sort="><img src="https://github.com/caiofov/caiofov/blob/master/imgs/pygame.png?raw=true" height="35px" alt="Pygame"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=neat&type=&language=&sort="><img src="https://img.shields.io/badge/neat-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Neat"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=opencv&type=&language=&sort="><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
-<br><br>
-<a href="https://github.com/caiofov?tab=repositories&q=game&type=&language=&sort="><img src="https://media.giphy.com/media/jBvHCY91NcurK/giphy.gif" height="30px" align="center"> <b>Game-about repositories</b><img src="https://media.giphy.com/media/ZIwKR3mLTwDAbNC6cR/giphy.gif" width="30px" height="30px" align="center"></a> 
+<br>
+<h4><a href="https://github.com/caiofov?tab=repositories&q=game&type=&language=&sort="><img src="https://media.giphy.com/media/jBvHCY91NcurK/giphy.gif" height="30px" align="center"> Game-about repositories <img src="https://media.giphy.com/media/ZIwKR3mLTwDAbNC6cR/giphy.gif" width="30px" height="30px" align="center"></a></h4>
 
 
 <!-- gagdets -->
