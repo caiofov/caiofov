@@ -58,8 +58,9 @@
 </br>
 <!-- repositories -->
 <h3> My repositories </h3>
+
 <!-- languages -->
-<b>Languages</b> <br>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="30px" align="center"> <b>Languages</b> <br><br>
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=java&sort="><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
@@ -72,9 +73,9 @@
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=prolog&sort="><img src="https://avatars.githubusercontent.com/u/6884283?s=200&v=4" height= "30px" alt="Prolog"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=gdscript&sort="><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="GDScript"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=html&sort="><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
-
+<br>
 <!-- other repositories -->
-<b>More</b><br>
+<img src="https://media.giphy.com/media/vmHYbzEKgB8cpOi2Lg/giphy.gif" height="25px" align="center" > <b>More</b><br>
 <a href="https://github.com/caiofov?tab=repositories&q=wordpress&type=&language=&sort="><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="Wordpress"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=p5js&type=&language=&sort="><img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF" alt="P5.js"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=pygame&type=&language=&sort="><img src="https://github.com/caiofov/caiofov/blob/master/imgs/pygame.png?raw=true" height="35px" alt="Pygame"></a>
