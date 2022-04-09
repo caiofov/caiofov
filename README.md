@@ -14,7 +14,7 @@
   Programming teacher at <a href="https://progkids.com/en">ProgKids</a>
   <br>
   <!-- gamedev -->
-  <img src="https://media.giphy.com/media/ZIwKR3mLTwDAbNC6cR/giphy.gif" width="30px" height="30px" align="center">
+  <img src="https://media.giphy.com/media/KvI1A7ma7Pk48eZ5as/giphy.gif" height="30px" align="center">
   Beginner game dev
 </p>
 </br>
@@ -57,7 +57,7 @@
 
 </br>
 <!-- repositories -->
-<h3> My repositories </h3>
+<h3> <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" height="30px" align="center">  My repositories </h3>
 
 <!-- languages -->
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="30px" align="center"> <b>Languages</b> <br><br>
@@ -71,7 +71,7 @@
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=lua&sort="><img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=prolog&sort="><img src="https://avatars.githubusercontent.com/u/6884283?s=200&v=4" height= "30px" alt="Prolog"></a>
-<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=gdscript&sort="><img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="GDScript"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=gdscript&sort="><img src="https://img.shields.io/badge/GDScript-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="GDScript"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=html&sort="><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
 <br>
 <!-- other repositories -->
@@ -81,6 +81,8 @@
 <a href="https://github.com/caiofov?tab=repositories&q=pygame&type=&language=&sort="><img src="https://github.com/caiofov/caiofov/blob/master/imgs/pygame.png?raw=true" height="35px" alt="Pygame"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=neat&type=&language=&sort="><img src="https://img.shields.io/badge/neat-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Neat"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=opencv&type=&language=&sort="><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+<br><br>
+<a href="https://github.com/caiofov?tab=repositories&q=game&type=&language=&sort="><img src="https://media.giphy.com/media/jBvHCY91NcurK/giphy.gif" height="30px" align="center"> <b>Game-about repositories</b><img src="https://media.giphy.com/media/ZIwKR3mLTwDAbNC6cR/giphy.gif" width="30px" height="30px" align="center"></a> 
 
 
 <!-- gagdets -->
