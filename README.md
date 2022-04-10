@@ -76,13 +76,15 @@
 <br>
 <!-- other repositories -->
 <img src="https://media.giphy.com/media/vmHYbzEKgB8cpOi2Lg/giphy.gif" height="25px" align="center" > <b>More</b><br>
-<a href="https://github.com/caiofov?tab=repositories&q=wordpress&type=&language=&sort="><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="Wordpress"></a>
-<a href="https://github.com/caiofov?tab=repositories&q=p5js&type=&language=&sort="><img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF" alt="P5.js"></a>
-<a href="https://github.com/caiofov?tab=repositories&q=pygame&type=&language=&sort="><img src="https://github.com/caiofov/caiofov/blob/master/imgs/pygame.png?raw=true" height="35px" alt="Pygame"></a>
-<a href="https://github.com/caiofov?tab=repositories&q=neat&type=&language=&sort="><img src="https://img.shields.io/badge/neat-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Neat"></a>
-<a href="https://github.com/caiofov?tab=repositories&q=opencv&type=&language=&sort="><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
-<a href="https://github.com/caiofov?tab=repositories&q=nltk&type=&language=&sort="><img src="https://img.shields.io/badge/nltk-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="NLTK"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=wordpress&type=&language=&sort="><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="Wordpress"></a> <!-- wordpress  -->
+<a href="https://github.com/caiofov?tab=repositories&q=p5js&type=&language=&sort="><img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF" alt="P5.js"></a> <!-- p5js -->
+<a href="https://github.com/caiofov?tab=repositories&q=pygame&type=&language=&sort="><img src="https://github.com/caiofov/caiofov/blob/master/imgs/pygame.png?raw=true" height="35px" alt="Pygame"></a><!-- pygame -->
+<a href="https://github.com/caiofov?tab=repositories&q=neat&type=&language=&sort="><img src="https://img.shields.io/badge/neat-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Neat"></a> <!-- neat -->
+<a href="https://github.com/caiofov?tab=repositories&q=react&type=&language=&sort="><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a> <!-- reactjs -->
+<a href="https://github.com/caiofov?tab=repositories&q=opencv&type=&language=&sort="><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a> <!-- opencv -->
+<a href="https://github.com/caiofov?tab=repositories&q=nltk&type=&language=&sort="><img src="https://img.shields.io/badge/nltk-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="NLTK"></a> <!-- nltk -->
 <br>
+<!-- game repositories -->
 <h4><a href="https://github.com/caiofov?tab=repositories&q=game&type=&language=&sort="><img src="https://media.giphy.com/media/jBvHCY91NcurK/giphy.gif" height="30px" align="center"> Game-about repositories <img src="https://media.giphy.com/media/ZIwKR3mLTwDAbNC6cR/giphy.gif" width="30px" height="30px" align="center"></a></h4>
 
 
