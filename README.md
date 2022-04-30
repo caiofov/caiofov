@@ -49,7 +49,7 @@
   <!-- itch.io -->
   <li>
     <a href="https://caiofov.itch.io/">
-    <img src="https://static.itch.io/images/itchio-textless-white.svg" alt="itch.io" rel="nofollow" align="center"> Itch.io
+    <img src="https://static.itch.io/images/itchio-textless-white.svg" alt="itch.io" height="15px" rel="nofollow" align="center"> Itch.io
     </a>
   </li>
 
