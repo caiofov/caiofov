@@ -7,11 +7,11 @@
 <!--About me -->
 <p>
   <!--ufc -->
-  <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="40px" height="40px" align="center"> Computer Science Student at <a href= https://cc.ufc.br/>UFC</a>
+  <img src="https://media.giphy.com/media/8NaYbrMzn9a4tu4z6i/giphy.gif" width="35px" height="35px" align="center"> Computer Science Student at <a href= https://cc.ufc.br/>UFC</a>
   </br>
-  <!-- progkids -->
-  <img src="https://media.giphy.com/media/3og0IEIcBeypT4DbyM/giphy.gif" width="30px" height="30px" align="center">
-     Programming teacher at <a href="https://progkids.com/en">ProgKids</a>
+  <!-- milenio -->
+  <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="40px" height="40px" align="center">
+     Development intern at <a href="https://www.milenio.capital/">Milenio Capital</a>
   <br>
   <!-- gamedev -->
   <img src="https://media.giphy.com/media/KvI1A7ma7Pk48eZ5as/giphy.gif" height="30px" align="center"> 
