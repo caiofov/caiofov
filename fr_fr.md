@@ -4,13 +4,15 @@
 <a href="README.md"><img src="https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg" height="15px" width="20px"></a>
 
 <p>
-  <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="40px" height="40px" align="center"> Étudiant en Informatique chez <a href= https://cc.ufc.br/>UFC</a>
+  <!-- ufc -->
+  <img src="https://media.giphy.com/media/8NaYbrMzn9a4tu4z6i/giphy.gif" width="35px" height="35px" align="center"> Étudiant en Informatique chez <a href= https://cc.ufc.br/>UFC</a>
   </br>
-  <img src="https://media.giphy.com/media/3og0IEIcBeypT4DbyM/giphy.gif" width="30px" height="30px" align="center">
-  Professeur de programmation chez <a href="https://progkids.com/en">ProgKids</a>
+  <!-- milenio -->
+  <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="40px" height="40px" align="center">
+      Stagiaire en développement chez <a href="https://www.milenio.capital/">Milenio Capital</a>
   <br>
   <!-- gamedev -->
-  <img src="https://media.giphy.com/media/ZIwKR3mLTwDAbNC6cR/giphy.gif" width="30px" height="30px" align="center">
+  <img src="https://media.giphy.com/media/KvI1A7ma7Pk48eZ5as/giphy.gif" width="30px" height="30px" align="center">
   Développeur de jeux vidéo débutant
 </p>
 
