@@ -85,6 +85,7 @@
 <a href="https://github.com/caiofov?tab=repositories&q=opencv&type=&language=&sort="><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a> <!-- opencv -->
 <a href="https://github.com/caiofov?tab=repositories&q=nltk&type=&language=&sort="><img src="https://img.shields.io/badge/nltk-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="NLTK"></a> <!-- nltk -->
 <a href="https://github.com/caiofov?tab=repositories&q=phaserjs&type=&language=&sort="><img src="https://github.com/caiofov/caiofov/blob/master/imgs/phaser.png?raw=true" height="23px" alt="Phaser.js"></a> <!-- phaserjs -->
+<img src="https://www.freelogovectors.net/wp-content/uploads/2022/03/roblox-studio-logo_freelogovectors.net_.png" height="23px"/> <!--roblox studio -->
 <br>
 
 <!-- game repositories -->
