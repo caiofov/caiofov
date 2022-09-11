@@ -99,10 +99,10 @@
 <div align="center">
   
   <!--Most used languages -->
-  <img height="220px" valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiofov&theme=nord&layout=compact&langs_count=10&hide_border=true&hide=makefile, html, css" />
+  <img height="220px" valign="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiofov&theme=nord&layout=compact&langs_count=10&hide_border=true&hide=html,css" />
   
   <!--Trophies -->
-  <img height="220px" valign="middle" src="https://github-profile-trophy.vercel.app/?username=caiofov&theme=nord&column=3&no-frame=true&no-bg=true&rank=SECRET,SSS,SS S,AAA,AA,A,B"/>
+  <img height="220px" valign="middle" src="https://github-profile-trophy.vercel.app/?username=caiofov&theme=nord&column=3&no-frame=true&no-bg=true&rank=SECRET,S,SS,SSS,AAA,AA,A,B"/>
   
 </div>
 
