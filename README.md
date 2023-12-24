@@ -33,16 +33,17 @@
     LinkedIn</a>
   </li>
   
-  <!-- email -->
+  <!-- gitlab -->
   <li>
-    <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" alt="Email" height="15px" rel="nofollow" align="center"> 
-    cfoviana@gmail.com
+    <a href = "https://gitlab.com/caiofov">
+    <img src="https://gitlab.com/favicon.ico" alt="Gitlab" height="15px" rel="nofollow" align="center"> 
+    GitLab</a>
   </li>
    
   <!-- lattes -->
    <li>
      <a href = "http://lattes.cnpq.br/5552876897987921">
-     <img src = "http://portal1.iff.edu.br/reitoria/imagens-da-reitoria/botao-lattes-on.png/@@images/a04e10ad-d46f-42a6-92f3-4983e71e31ee.png" alt"Lattes" height="15px" width="15px" rel="nofollow" align="center">
+     <img src = "https://www.gov.br/observatorio/pt-br/assuntos/programas-academicos/imagens/Lattes.png" alt"Lattes" height="15px" width="15px" rel="nofollow" align="center">
       Lattes </a>
   </li>
   
