@@ -89,9 +89,18 @@
 <img src="https://www.freelogovectors.net/wp-content/uploads/2022/03/roblox-studio-logo_freelogovectors.net_.png" height="23px"/> <!--roblox studio -->
 <br>
 
+<!-- published games -->
+<h3>My published games </h3>
+
+<!-- Jornada da mel -->
+<div>
+  <a href="https://tushin.itch.io/jornada-da-mel"><img src="https://img.itch.zone/aW1nLzEwMDczODEzLnBuZw==/180x143%23c/XsaYGs.png" height="100px" align="center" title="Jornada da Mel"/> </a>
+<!-- raw mode -->
+  <a href="https://caiofov.itch.io/raw-mode"><img src="https://img.itch.zone/aW1nLzg3Njc4MTkucG5n/315x250%23c/k8jR8p.png" height="100px" align="center" title=".raw Mode"/> </a>
+</div>
+
 <!-- game repositories -->
 <h4><a href="https://github.com/caiofov?tab=repositories&q=game&type=&language=&sort="><img src="https://media.giphy.com/media/jBvHCY91NcurK/giphy.gif" height="30px" align="center"> Game-about repositories <img src="https://media.giphy.com/media/ZIwKR3mLTwDAbNC6cR/giphy.gif" width="30px" height="30px" align="center"></a></h4>
-
 
 
 <!-- gagdets -->
@@ -107,4 +116,3 @@
   <img height="220px" valign="middle" src="https://github-profile-trophy.vercel.app/?username=caiofov&theme=nord&column=3&no-frame=true&no-bg=true&rank=SECRET,S,SS,SSS,AAA,AA,A,B"/>
   
 </div>
-
