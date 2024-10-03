@@ -8,14 +8,6 @@
 <p>
   <!--ufc -->
   <img src="https://media.giphy.com/media/8NaYbrMzn9a4tu4z6i/giphy.gif" width="35px" height="35px" align="center"> Computer Science Student at <a href= https://cc.ufc.br/>UFC</a>
-  </br>
-  <!-- milenio -->
-  <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="40px" height="40px" align="center">
-     Development intern at <a href="https://www.milenio.capital/">Milenio Capital</a>
-  <br>
-  <!-- gamedev -->
-  <img src="https://media.giphy.com/media/KvI1A7ma7Pk48eZ5as/giphy.gif" height="30px" align="center"> 
-  Beginner game dev
 </p>
 </br>
 
@@ -29,7 +21,7 @@
   <!-- linkedin -->
   <li>
     <a href="https://www.linkedin.com/in/caio-oliveira1312/" align="center">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" rel="nofollow"> 
+    <img src="https://img.freepik.com/vetores-premium/logotipo-linkedin_578229-227.jpg"  height="15px" alt="linkedin" rel="nofollow"> 
     LinkedIn</a>
   </li>
   
