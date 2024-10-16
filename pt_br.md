@@ -3,6 +3,9 @@
 <a href="README.md"><img src="https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg" height="15px" width="20px"></a> · 
 <a href="fr_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" height="15px"></a>
 
+> <p> <b>Veja também:</b> meu <a href="caiofov.github.io">website</a> e <a href="https://github.com/caiofov/caiofov/blob/master/cv/CV_pt_CaioDeFreitasOliveira.pdf">currículo</a></p>
+
+
 <p>
   <!--ufc -->
   <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="40px" height="40px" align="center"> Desenvolvedor Full-Stack
