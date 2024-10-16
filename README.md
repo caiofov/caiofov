@@ -5,7 +5,7 @@
 <a href="fr_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="Français" height="15px" align="center"></a>
 <br/>
 
-> <p> <b>See also:</b> my <a href="caiofov.github.io">website</a> and <a href="https://github.com/caiofov/caiofov/blob/master/cv/CV_en_CaioDeFreitasOliveira.pdf">Resumé</a></p>
+> <p> <b>See also:</b> my <a href="caiofov.github.io">website</a> and <a href="https://github.com/caiofov/caiofov/blob/master/cv/CV_en_CaioDeFreitasOliveira.pdf">resumé</a></p>
 
 <br/>
 <!--About me -->
