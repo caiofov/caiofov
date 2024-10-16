@@ -3,11 +3,20 @@
 <!-- translations -->
 <a href="pt_br.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" alt="Português" height="15px" align="center"></a> ·
 <a href="fr_fr.md"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="Français" height="15px" align="center"></a>
+<br/>
 
+> <p> <b>See also:</b> my <a href="caiofov.github.io">website</a> and <a href="https://github.com/caiofov/caiofov/blob/master/cv/CV_en_CaioDeFreitasOliveira.pdf">Resumé</a></p>
+
+<br/>
 <!--About me -->
+
 <p>
   <!--ufc -->
-  <img src="https://media.giphy.com/media/8NaYbrMzn9a4tu4z6i/giphy.gif" width="35px" height="35px" align="center"> Computer Science Student at <a href= https://cc.ufc.br/>UFC</a>
+  <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="40px" height="40px" align="center"> Full-Stack Developer
+</p>
+<p>
+  <!--ufc -->
+  <img src="https://media.giphy.com/media/8NaYbrMzn9a4tu4z6i/giphy.gif" width="35px" height="35px" align="center"> Bachelor of Science in Computer Science at <a href= https://cc.ufc.br/>Federal University of Ceará</a> (UFC)
 </p>
 </br>
 
@@ -23,13 +32,6 @@
     <a href="https://www.linkedin.com/in/caio-oliveira1312/" align="center">
     <img src="https://img.freepik.com/vetores-premium/logotipo-linkedin_578229-227.jpg"  height="15px" alt="linkedin" rel="nofollow"> 
     LinkedIn</a>
-  </li>
-  
-  <!-- gitlab -->
-  <li>
-    <a href = "https://gitlab.com/caiofov">
-    <img src="https://gitlab.com/favicon.ico" alt="Gitlab" height="15px" rel="nofollow" align="center"> 
-    GitLab</a>
   </li>
    
   <!-- lattes -->
