@@ -2,7 +2,7 @@
 
 <a href="README.md"><img src="https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg" height="15px" width="20px" title="Read in English"></a> 
 
-> <p> <b>Veja também:</b> meu <a href="caiofov.github.io">website</a> e <a href="cv/CV_pt_CaioDeFreitasOliveira.pdf">currículo</a></p>
+> <p> <b>Veja também:</b> meu <a href="https://caiofov.github.io">website</a> e <a href="cv/CV_pt_CaioDeFreitasOliveira.pdf">currículo</a></p>
 
 
 <p>
