@@ -4,7 +4,7 @@
 <a href="pt_br.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/2000px-Flag_of_Brazil.svg.png" alt="Português" height="15px" align="center" title="Ler em português"></a>
 <br/>
 
-> <p> <b>See also:</b> my <a href="caiofov.github.io">website</a> and <a href="cv/CV_en_CaioDeFreitasOliveira.pdf">resumé</a></p>
+> <p> <b>See also:</b> my <a href="https://caiofov.github.io">website</a> and <a href="cv/CV_en_CaioDeFreitasOliveira.pdf">resumé</a></p>
 
 <br/>
 <!--About me -->
