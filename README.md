@@ -56,6 +56,7 @@
 <!-- languages -->
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" height="30px" align="center"> <b>Languages</b> <br><br>
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
+<a href="https://github.com/caiofov?tab=repositories&q=&type=&language=typescript&sort="><img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="TypeScript"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=java&sort="><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
 <a href="https://github.com/caiofov?tab=repositories&q=&type=&language=php&sort="><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
@@ -79,7 +80,7 @@
 <a href="https://github.com/caiofov?tab=repositories&q=opencv&type=&language=&sort="><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a> <!-- opencv -->
 <a href="https://github.com/caiofov?tab=repositories&q=nltk&type=&language=&sort="><img src="https://img.shields.io/badge/nltk-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="NLTK"></a> <!-- nltk -->
 <a href="https://github.com/caiofov?tab=repositories&q=phaserjs&type=&language=&sort="><img src="https://github.com/caiofov/caiofov/blob/master/imgs/phaser.png?raw=true" height="23px" alt="Phaser.js"></a> <!-- phaserjs -->
-<img src="https://www.freelogovectors.net/wp-content/uploads/2022/03/roblox-studio-logo_freelogovectors.net_.png" height="23px"/> <!--roblox studio -->
+<a href="https://github.com/caiofov?tab=repositories&q=qt&type=&language=&sort="><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/640px-Qt_logo_neon_2022.svg.png" height="23px" alt="QT"></a> <!-- qt -->
 <br>
 
 <!-- published games -->
@@ -91,10 +92,6 @@
 <!-- raw mode -->
   <a href="https://caiofov.itch.io/raw-mode"><img src="https://img.itch.zone/aW1nLzg3Njc4MTkucG5n/315x250%23c/k8jR8p.png" height="100px" align="center" title=".raw Mode"/> </a>
 </div>
-
-<!-- game repositories -->
-<h4><a href="https://github.com/caiofov?tab=repositories&q=game&type=&language=&sort="><img src="https://media.giphy.com/media/jBvHCY91NcurK/giphy.gif" height="30px" align="center"> Game-about repositories <img src="https://media.giphy.com/media/ZIwKR3mLTwDAbNC6cR/giphy.gif" width="30px" height="30px" align="center"></a></h4>
-
 
 <!-- gagdets -->
 
